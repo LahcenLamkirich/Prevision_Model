@@ -63,3 +63,6 @@ prevision=load_model.predict(input_df)
 
 st.subheader('Résultat de la prévision')
 st.write(prevision)
+
+
+# This is the end of the script : Lahcen Lamkirich 
